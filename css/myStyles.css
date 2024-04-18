@@ -1,0 +1,48 @@
+.body-style{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-position: inside;
+    text-align: center;
+    color: black;
+    background-color: rgb(232, 242, 251);
+   
+}
+
+.mydiv{
+    background-color: peachpuff;
+    padding: 30px;
+    margin: 80px;
+
+}
+
+.div2{
+    border: 5px solid peachpuff;
+    margin: 80px;
+}
+
+.ol-style{
+    font-weight: bold;
+    
+}
+
+.ul{
+    font-weight: normal;
+    
+}
+.tableau.container {
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tableauPlaceholder {
+    position: relative;
+    left: 50%;
+   bottom: 0;
+   transform: translateX(-50%,0);
+    transform: translate(-50%, -50%);
+    top: 250px;
+}
+
+
+
